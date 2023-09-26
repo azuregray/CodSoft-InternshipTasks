@@ -47,7 +47,7 @@ This folder contains Python code for detecting spam SMS messages using Natural L
 
 ### Check out Video Demonstration of this Project on my YouTube Channel:
 
-> [Take me there](https://youtu.be/DeHyXdsJZhc)
+> [Take me there](https://youtu.be/v35TquFBSVw?si=_6njO4PWjuPTH7hI)
 
 ### Author
 

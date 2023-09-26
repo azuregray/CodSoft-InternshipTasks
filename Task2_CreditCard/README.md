@@ -53,7 +53,7 @@ This repository contains Python code for detecting credit card fraud using a Ran
 
 ### Check out Video Demonstration of this Project on my YouTube Channel:
 
-> [Take me there](https://youtu.be/DeHyXdsJZhc)
+> [Take me there](https://youtu.be/-ZdOvb067as?si=0QoocA3fwCnNjS94)
 
 ### Author
 
