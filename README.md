@@ -7,7 +7,7 @@ In this repository, I present my Three significant tasks I accomplished during m
 ## Task 1: Movie Genre Classification
 
 ### Task Description: *Create a machine learning model that can predict the genre of a movie based on its plot summary or other textual information. You can use techniques like TF-IDF or word embeddings with classifiers such as Naive Bayes, Logistic Regression, or Support Vector Machines.*
-For this task, I implemented cutting-edge techniques in **object recognition**. The results and details can be found in the respective task folder.
+For this task, I implemented an ML model using TF-IDF and Naive Bayes classifier to successfully predict movie genres based on plot summaries, achieving accurate genre classification.
 
 ## Task 2: Credit Card Fraud Detection
 
