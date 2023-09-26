@@ -1,6 +1,6 @@
 # CodSoft Internship Work Showcase
 
-Welcome to my internship showcase as part of the **CodSoft Internship Sptember 2023** with [Visit CodSoft.](https://www.codsoft.in/). 
+Welcome to my internship showcase as part of the **CodSoft Internship Sptember 2023** with [CODSOFT](https://www.codsoft.in/). 
 
 In this repository, I present my Three significant tasks I accomplished during my internship:
 
@@ -23,7 +23,7 @@ I'm excited to share the outcomes of both tasks, and I encourage you to explore 
 Additionally, you can watch my video demonstration of these tasks on my [YouTube Channel](https://www.youtube.com/@thedarshgowda).
 
 Feel free to reach out if you have any questions or feedback.
-#####Sincerely Thank You for reviewing my internship work!
+Sincerely Thank You for reviewing my internship work!
 
 ### Check out Video Demonstrations of these Projects and more on my YouTube Channel:
 
