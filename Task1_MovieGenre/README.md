@@ -42,7 +42,7 @@ This folder contains Python code for a movie genre prediction system using Multi
 
 ### TL;DR 
 
-> The code uses a pre-trained model to detect and recognize objects in an image and a video stream.
+> This code utilizes MultiOutput Naive Bayes to predict movie genres based on plot descriptions, involving data preprocessing, TF-IDF vectorization, and evaluation metrics calculation. To use the code, ensure required libraries are installed, provide training and test data, run the code, and review genre predictions and evaluation metrics in `model_evaluation.txt`.
 
 ### Requirements
 
