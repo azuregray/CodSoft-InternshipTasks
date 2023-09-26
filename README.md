@@ -1,6 +1,6 @@
 # CodSoft Internship Work Showcase
 
-Welcome to my internship showcase as part of the **CodSoft Internship Sptember 2023** with [CODSOFT](https://www.codsoft.in/). 
+Welcome to my internship showcase as part of the *CodSoft Internship September 2023* with [CODSOFT](https://www.codsoft.in/). 
 
 In this repository, I present my Three significant tasks I accomplished during my internship:
 
