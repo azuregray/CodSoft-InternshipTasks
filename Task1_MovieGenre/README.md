@@ -48,7 +48,7 @@ This folder contains Python code for a movie genre prediction system using Multi
 
 - Python 3.x
 - Pandas (`pandas`)
-- **NumPy** (`numpy`)
+- NumPy (`numpy`)
 - Scikit-Learn (`scikit-learn`)
 - TQDM (`tqdm`)
 
