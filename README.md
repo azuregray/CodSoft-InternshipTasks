@@ -12,7 +12,7 @@ For this task, I implemented an ML model using TF-IDF and Naive Bayes classifier
 ## Task 2: Credit Card Fraud Detection
 
 ### Task Description: *Build a model to detect fraudulent credit card transactions. Use a dataset containing information about credit card transactions, and experiment with algorithms like Logistic Regression, Decision Trees, or Random Forests to classify transactions as fraudulent or legitimate.*
-In my second task, I delved into the world of **color identification** in images and videos. The code and outcomes are available in the respective project directory.
+In this task, I developed a fraud detection model utilizing algorithms such as Logistic Regression, Decision Trees, and Random Forests on a credit card transaction dataset. The code and output files are available in the respective project directory.
 
 ## Task 3: Spam SMS Detection
 
