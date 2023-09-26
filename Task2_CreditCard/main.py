@@ -1,3 +1,20 @@
+'''
+Hello again everyone! This is Darshan S
+Intern at CODSOFT, India.
+
+I'm very thrilled to share my Second Task at CodSoft Internship September 2023 viz. CREDIT CARD FRAUD DETECTION MODEL.
+More details on the structure, working and requirements are available in the README files of respective folder name corresponding to the Task Name.
+'''
+
+# AUTHOR: DARSHAN S
+# TASK NAME: Credit Card Fraud Detection
+# 2nd Task in the List of Tasks
+# TASK CATEGORY: Machine Learning
+# DATE OF SUBMISSION: 26 September 2023
+# LinkedIn Profile: https://linkedin.com/in/arcticblue/
+
+
+# Lets start the code by importing necessary libraries
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import StandardScaler, LabelEncoder, OneHotEncoder
@@ -86,6 +103,7 @@ accuracy = accuracy_score(y_test, y_pred)
 confusion = confusion_matrix(y_test, y_pred)
 report = classification_report(y_test, y_pred)
 
+# Display the necessary report on ML Model Metrics for evaluation
 print(f"Accuracy: {accuracy}")
 print(f"Confusion Matrix:\n{confusion}")
 print(f"Classification Report:\n{report}")

@@ -1,4 +1,20 @@
-# Import necessary libraries
+'''
+Hello again everyone! This is Darshan S
+Intern at CODSOFT, India.
+
+I'm very thrilled to share my Third Task at CodSoft Internship September 2023 viz. SPAM SMS DETECTION MODEL.
+More details on the structure, working and requirements are available in the README files of respective folder name corresponding to the Task Name.
+'''
+
+# AUTHOR: DARSHAN S
+# TASK NAME: Spam SMS Detection
+# 4th Task in the List of Tasks
+# TASK CATEGORY: Machine Learning
+# DATE OF SUBMISSION: 26 September 2023
+# LinkedIn Profile: https://linkedin.com/in/arcticblue/
+
+
+# Lets start the code by importing necessary libraries
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
@@ -7,16 +23,16 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import accuracy_score, classification_report
 from tqdm import tqdm
 
-# Load the SMS Spam Collection dataset
+# Load the SMS Spam Collection dataset while specifying appropriate encoding format.
 data = pd.read_csv('spam.csv', encoding='latin-1')
 
-# Preprocess the data
+# Preprocess the input data
 data.drop_duplicates(inplace=True)
-data['label'] = data['v1'].map({'ham': 'ham', 'spam': 'spam'})  # Map to 'ham' and 'spam'
+data['label'] = data['v1'].map({'ham': 'ham', 'spam': 'spam'})
 X = data['v2']
 y = data['label']
 
-# Split the data into training and testing sets
+# Split the data into two sets: Training Set and Testing Set
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
 # Create a TF-IDF vectorizer
@@ -54,7 +70,7 @@ for i in range(10, 101, 10):
 # Close the progress bar
 progress_bar.close()
 
-# Print the results
+# Display the results on the interface where the code was initiated from.
 print(f'Accuracy: {accuracy:.2f}')
 print('Classification Report:')
 print(report)

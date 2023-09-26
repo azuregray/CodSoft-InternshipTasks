@@ -1,4 +1,20 @@
-# Import necessary libraries
+'''
+Hello everyone! This is Darshan S
+Intern at CODSOFT, India.
+
+I'm very thrilled to share my First Task at CodSoft Internship September 2023 viz. MOVIE GENRE CLASSIFICATION MODEL.
+More details on the structure, working and requirements are available in the README files of respective folder name corresponding to the Task Name.
+'''
+
+# AUTHOR: DARSHAN S
+# TASK NAME: Movie Genre Classification
+# 1st Task in the List of Tasks
+# TASK CATEGORY: Machine Learning
+# DATE OF SUBMISSION: 26 September 2023
+# LinkedIn Profile: https://linkedin.com/in/arcticblue/
+
+
+# Lets start the code by importing necessary libraries
 import pandas as pd
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -11,10 +27,10 @@ from tqdm import tqdm  # Import tqdm for progress bars
 # Define the list of genres
 genre_list = [ 'action', 'adult', 'adventure', 'animation', 'biography', 'comedy', 'crime', 'documentary', 'family', 'fantasy', 'game-show', 'history', 'horror', 'music', 'musical', 'mystery', 'news', 'reality-tv', 'romance', 'sci-fi', 'short', 'sport', 'talk-show', 'thriller', 'war', 'western' ]
 
-# Define a fallback genre for movies with no predicted genre
+# Define a fallback genre for movies which the model finds very hard to predict
 fallback_genre = 'Unknown'
 
-# Load your train dataset from train_data.txt
+# Load the Training dataset from train_data.txt
 try:
     with tqdm(total=50, desc="Loading Train Data") as pbar:
         train_data = pd.read_csv('train_data.txt', sep=':::', header=None, names=['SerialNumber', 'MOVIE_NAME', 'GENRE', 'MOVIE_PLOT'], engine='python')
@@ -71,20 +87,16 @@ test_movie_names = test_data['MOVIE_NAME']
 predicted_genres = mlb.inverse_transform(y_pred)
 test_results = pd.DataFrame({'MOVIE_NAME': test_movie_names, 'PREDICTED_GENRES': predicted_genres})
 
-# Replace empty predicted genres with the fallback genre
+# Replace empty unpredicted genres with the fallback genre
 test_results['PREDICTED_GENRES'] = test_results['PREDICTED_GENRES'].apply(lambda genres: [fallback_genre] if len(genres) == 0 else genres)
 
-# Write the results to a text file with proper formatting and UTF-8 encoding
+# Write the results to an output text file with proper formatting
 with open("model_evaluation.txt", "w", encoding="utf-8") as output_file:
     for _, row in test_results.iterrows():
         movie_name = row['MOVIE_NAME']
         genre_str = ', '.join(row['PREDICTED_GENRES'])
         output_file.write(f"{movie_name} ::: {genre_str}\n")
 
-
-print("Model evaluation results have been saved to 'model_evaluation.txt'.")
-
-# ... (previous code remains the same)
 
 # Calculate evaluation metrics using training labels (as a proxy)
 y_train_pred = multi_output_classifier.predict(X_train_tfidf)
@@ -103,4 +115,5 @@ with open("model_evaluation.txt", "a", encoding="utf-8") as output_file:
     output_file.write(f"Recall: {recall:.2f}\n")
     output_file.write(f"F1-score: {f1:.2f}\n")
 
-print("Model evaluation results and metrics have been appended to 'model_evaluation.txt'.")
+
+print("Model evaluation results and metrics have been saved to 'model_evaluation.txt'.")
