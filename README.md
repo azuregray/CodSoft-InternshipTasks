@@ -19,7 +19,7 @@ In this repository, I present three of my significant tasks I completed during m
 
 For this task, I implemented an ML model using TF-IDF and Naive Bayes classifier to successfully predict movie genres based on plot summaries, achieving accurate genre classification.
 
-## Task 2: credit Card Fraud Detection
+## Task 2: Credit Card Fraud Detection
 
 #### Task Description:
 > *Build a model to detect fraudulent credit card transactions. Use a dataset containing information about credit card transactions, and experiment with algorithms like Logistic Regression, Decision Trees, or Random Forests to classify transactions as fraudulent or legitimate.*
