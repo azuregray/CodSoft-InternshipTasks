@@ -29,10 +29,10 @@ In this task, I developed a fraud detection model utilizing algorithms such as L
 
 #### Task Description:
 > *Build an AI model that can classify SMS messages as spam or legitimate. Use techniques like TF-IDF or word embeddings with classifiers like Naive Bayes, Logistic Regression, or Support Vector Machines to identify spam messages.*
+
 For this project, I successfully implemented an AI model utilizing TF-IDF and classifiers like Naive Bayes, Logistic Regression, and Support Vector Machines to distinguish between spam and legitimate SMS messages, significantly improving message filtering and user experience.
 
 I'm excited to share the outcomes of all my tasks, and I encourage you to explore the respective project work in detail using the corresponding folders above containing both the source and main.py python executable.
-Additionally, you can watch my video demonstration of these tasks on my [YouTube Channel](https://www.youtube.com/@thedarshgowda).
 
 Feel free to reach out if you have any questions or feedback.
 Sincerely Thank You for reviewing my internship work!
