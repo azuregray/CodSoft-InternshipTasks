@@ -1,4 +1,11 @@
-# CodSoft Internship Work Showcase
+# **C O D S O F T**
+## INTERNSHIP WORK &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; SEPT 2023
+
+> Author: **Darshan S**
+
+> My Identity >>  [Github](https://github.com/azuregray/) | [LinkedIn](https://linkedin.com/in/arcticblue/) | [Instagram](https://instagram.com/thedarshgowda/) | [YouTube](https://www.youtube.com/@pantoneblue/) | [Telegram](https://t.me/adobegreen/) | [Mail](mailto:d7gowda@gmail.com)
+
+---
 
 Welcome to my internship showcase as part of the *CodSoft Internship September 2023* with [CODSOFT](https://www.codsoft.in/). 
 
@@ -25,9 +32,9 @@ Additionally, you can watch my video demonstration of these tasks on my [YouTube
 Feel free to reach out if you have any questions or feedback.
 Sincerely Thank You for reviewing my internship work!
 
+---
 ### Check out Video Demonstrations of these Projects and more on my YouTube Channel:
 
 > [Take me there](https://youtube.com/@thedarshgowda)
 
-Darshan S
-> Contact me @ [LinkedIn](https://linkedin.com/in/arcticblue/) | [Instagram](https://instagram.com/thedarshgowda) | [Email](mailto:d7gowda@gmail.com)
+---
