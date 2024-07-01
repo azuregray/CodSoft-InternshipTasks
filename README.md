@@ -38,6 +38,6 @@ Sincerely Thank You for reviewing my internship work!
 ---
 ### Check out Video Demonstrations of these Projects and more on my YouTube Channel:
 
-> [YouTube](https://youtube.com/@thedarshgowda)
+> [YouTube Channel](https://youtube.com/@pantoneblue)
 
 ---
