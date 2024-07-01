@@ -39,6 +39,12 @@ Feel free to reach out if you have any questions or feedback.
 Sincerely Thank You for reviewing my internship work!
 
 ---
+
+- **URL for the origin repository is as below**
+
+> https://github.com/azuregray/CodSoft-InternshipTasks/
+
+---
 ### Check out Video Demonstrations of these Projects and more on my YouTube Channel
 
 > [YouTube Channel](https://youtube.com/@pantoneblue)
