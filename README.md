@@ -12,7 +12,7 @@ Welcome to my internship showcase as part of the *CodSoft Internship September 2
 
 In this repository, I present my Three significant tasks I accomplished during my internship:
 
-## **Task 1: Movie Genre Classification**
+## TASK 1: MOVIE GENRE CLASSIFICATION
 
 ### Task Description: *Create a machine learning model that can predict the genre of a movie based on its plot summary or other textual information. You can use techniques like TF-IDF or word embeddings with classifiers such as Naive Bayes, Logistic Regression, or Support Vector Machines.*
 For this task, I implemented an ML model using TF-IDF and Naive Bayes classifier to successfully predict movie genres based on plot summaries, achieving accurate genre classification.
