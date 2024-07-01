@@ -1,5 +1,6 @@
 # **C O D S O F T**
-## INTERNSHIP WORK &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; SEPTEMBER 2023
+## INTERNSHIP WORK
+## SEPTEMBER 2023
 
 > Author: **Darshan S**
 
