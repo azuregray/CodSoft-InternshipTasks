@@ -39,7 +39,7 @@ Feel free to reach out if you have any questions or feedback.
 Sincerely Thank You for reviewing my internship work!
 
 ---
-### Check out Video Demonstrations of these Projects and more on my YouTube Channel:
+### Check out Video Demonstrations of these Projects and more on my YouTube Channel
 
 > [YouTube Channel](https://youtube.com/@pantoneblue)
 
