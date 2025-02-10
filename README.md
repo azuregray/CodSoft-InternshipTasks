@@ -2,10 +2,9 @@
 ## INTERNSHIP WORK
 #### SEPTEMBER 2023
 
-> Author: **D A R S H A N &ensp; S**
+> Author: **`D A R S H A N  S`**
 
-> My Identity >>  [Github](https://github.com/azuregray/) | [LinkedIn](https://linkedin.com/in/arcticblue/) | [Instagram](https://instagram.com/thedarshgowda/) | [YouTube](https://www.youtube.com/@pantoneblue/) | [Telegram](https://t.me/adobegreen/) | [Mail](mailto:d7gowda@gmail.com)
-
+> My Identity >>  [**`GitHub`**](https://github.com/azuregray/)
 ---
 
 Welcome to my internship showcase as part of the *CodSoft Internship September 2023* with [CODSOFT](https://www.codsoft.in/). 
@@ -47,6 +46,6 @@ Sincerely Thank You for reviewing my internship work!
 ---
 ### Check out Video Demonstrations of these Projects and more on my YouTube Channel
 
-> [YouTube Channel](https://youtube.com/@pantoneblue)
+> [YouTube Channel](https://youtube.com/@pantoneblack)
 
 ---
